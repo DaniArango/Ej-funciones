@@ -143,7 +143,7 @@ function division (num1,num2) {
 
     console.log(division(34,23))
 
- //
+ //Crea una función que dada una array de números, devuelve una nueva array que tenga solo los números que son 5 o más. 
 
  function mayorquecinco (numeros)
  {
@@ -163,6 +163,10 @@ function division (num1,num2) {
 
  const nums = [1,2,3,5,6,7];
  mayorquecinco(nums)
+ 
+
+//  Crea una aplicación que nos pida un número por prompt y con un método se lo pasamos por parámetro 
+//  para que nos indique si es o no un número primo, debe devolver true si es primo sino false.
 
  function numprimo(primo)
  {
